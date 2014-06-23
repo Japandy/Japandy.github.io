@@ -1,7 +1,7 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4201512589" ref="index"/>
+    <file name="index.css" crc="173809891" ref="index"/>
     <file name="iefonts_index.css" crc="4035017167" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -78,7 +78,6 @@
     <file name="shutterstock_14043320878x53.jpg" crc="491311256" ref="index"/>
     <file name="shutterstock_15229573478x53.jpg" crc="3948016179" ref="index"/>
     <file name="shutterstock_15246452979x53.jpg" crc="414076611" ref="index"/>
-    <file name="creative_cloud-u424-fr.jpg" crc="3988762981" ref="index"/>
     <file name="u435-17.png" crc="3901767416" ref="index"/>
     <file name="u435-17-r.png" crc="467538957" ref="index"/>
     <file name="u435-17-m.png" crc="71331458" ref="index"/>
@@ -86,6 +85,7 @@
     <file name="vector-macbook-pro-laptop-u70-fr.jpg" crc="4084206033" ref="index"/>
     <file name="paint-brush-can-13542863.jpg" crc="4030080898" ref="index"/>
     <file name="responsive-mockups.jpg" crc="4209020700" ref="index"/>
+    <file name="creative_cloud.jpg" crc="15151517" ref="index"/>
   </folder>
-  <file name="index.html" crc="442898897" mt="1403506478426" redirect="true"/>
+  <file name="index.html" crc="500386387" mt="1403508081397" redirect="true"/>
 </manifest>

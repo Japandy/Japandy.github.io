@@ -7,7 +7,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 4534px;
+	min-height: 4477px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -19,7 +19,6 @@
 #page_position_content
 {
 	margin-top: 525px;
-	margin-bottom: 56px;
 }
 
 #u69
@@ -188,7 +187,7 @@
 	z-index: 3;
 	width: 209px;
 	position: fixed;
-	top: 140px;
+	top: 128px;
 	left: 739px;
 }
 
@@ -200,7 +199,7 @@
 	text-align: center;
 	color: #FFFFFF;
 	position: fixed;
-	top: 183px;
+	top: 171px;
 	left: 145px;
 }
 
@@ -489,11 +488,18 @@
 	background-size: cover !important;
 }
 
+#about
+{
+	left: -100px;
+	margin-top: 436px;
+	position: relative;
+}
+
 #pu139
 {
 	width: 0.01px;
 	left: -100px;
-	margin-top: 474px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -501,19 +507,11 @@
 {
 	z-index: 59;
 	width: 1160px;
+	height: 549px;
 	border-color: #000000;
 	background-color: #3E63A6;
-	padding-bottom: 533px;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#about
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	margin-top: -2px;
 }
 
 #u141-4
@@ -586,11 +584,19 @@
 {
 	z-index: 78;
 	width: 1160px;
-	height: 356px;
 	border-color: #000000;
+	padding-bottom: 22px;
 	position: relative;
 	left: -100px;
 	background: #3E63A6 url("../images/adobe-creative-cloud.jpg") no-repeat center center;
+}
+
+#gallery
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 316px;
 }
 
 #u151
@@ -601,13 +607,6 @@
 	background-color: #3E63A6;
 	padding-bottom: 575px;
 	position: relative;
-	margin-right: -10000px;
-}
-
-#gallery
-{
-	position: relative;
-	width: 22px;
 	margin-right: -10000px;
 }
 
@@ -1436,12 +1435,20 @@
 {
 	z-index: 187;
 	width: 1160px;
-	height: 355px;
 	border-color: #000000;
+	padding-bottom: 23px;
 	position: relative;
 	left: -100px;
-	background: #277697 url("../images/creative_cloud-u424-fr.jpg") no-repeat left top;
+	background: #277697 url("../images/creative_cloud.jpg") no-repeat left top;
 	background-size: cover !important;
+}
+
+#contact
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 314px;
 }
 
 #pu151,#pu425
@@ -1462,21 +1469,13 @@
 	margin-right: -10000px;
 }
 
-#u93_align_to_page,#u139_align_to_page,#u151_align_to_page,#u425_align_to_page
+#u93_align_to_page,#u150_align_to_page,#u151_align_to_page,#u424_align_to_page,#u425_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
 	width: 960px;
 	position: relative;
 	left: -100px;
-}
-
-#contact
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	margin-top: -3px;
 }
 
 #u426-4
@@ -2025,8 +2024,8 @@
 	color: #FFFFFF;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
-	margin-left: 21px;
-	top: -44px;
+	margin-left: 22px;
+	top: -61px;
 	margin-bottom: -19px;
 	position: relative;
 }
