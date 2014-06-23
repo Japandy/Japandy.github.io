@@ -7,7 +7,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 4521px;
+	min-height: 4535px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -476,31 +476,15 @@
 	position: fixed;
 	top: 1248px;
 	left: -100px;
-	background: #277697 url("../images/kittens-u132-fr.jpg") no-repeat left top;
+	background: #277697 url("../images/paintbrushes-dripping-paint-containers-26335485-u132-fr.jpg") no-repeat left top;
 	background-size: cover !important;
-}
-
-#u540-4
-{
-	z-index: 290;
-	width: 301px;
-	min-height: 77px;
-	text-align: center;
-	font-size: 48px;
-	line-height: 58px;
-	color: #7F7F7F;
-	font-family: droid-sans, sans-serif;
-	font-weight: 700;
-	margin-left: 637px;
-	margin-top: 82px;
-	position: relative;
 }
 
 #pu139
 {
 	width: 0.01px;
 	left: -100px;
-	margin-top: 218px;
+	margin-top: 474px;
 	position: relative;
 }
 
@@ -552,7 +536,7 @@
 
 #u541
 {
-	z-index: 294;
+	z-index: 290;
 	width: 205px;
 	position: relative;
 	margin-right: -10000px;
@@ -617,7 +601,6 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 14px;
 }
 
 #u152-4
@@ -1466,7 +1449,7 @@
 	width: 1160px;
 	border-color: #000000;
 	background-color: #277697;
-	padding-bottom: 673px;
+	padding-bottom: 660px;
 	position: relative;
 	margin-right: -10000px;
 }

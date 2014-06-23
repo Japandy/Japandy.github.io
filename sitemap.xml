@@ -61,12 +61,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://japandy.github.io/images/kittens-u132-fr.jpg</loc>
-    <lastmod>2014-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://japandy.github.io/images/andy.jpg</loc>
     <lastmod>2014-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -392,6 +386,12 @@
   </url>
   <url>
     <loc>http://japandy.github.io/images/u435-17-fs.png</loc>
+    <lastmod>2014-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://japandy.github.io/images/paintbrushes-dripping-paint-containers-26335485-u132-fr.jpg</loc>
     <lastmod>2014-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
