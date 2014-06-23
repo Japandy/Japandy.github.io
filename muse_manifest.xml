@@ -1,148 +1,90 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="master_a-master.css" crc="148899866" ref="illustration:contact:けののびたこけし:about-me:news:そのほか:ネコ:works:おんにゃのこ:index"/>
-    <file name="illustration.css" crc="4172762756" ref="illustration"/>
-    <file name="contact.css" crc="13005745" ref="contact"/>
-    <file name="________.css" crc="295558664" ref="けののびたこけし"/>
-    <file name="about-me.css" crc="3766294840" ref="about-me"/>
-    <file name="news.css" crc="4257347727" ref="news"/>
-    <file name="____.css" crc="4291071278" ref="そのほか"/>
-    <file name="__.css" crc="4250524160" ref="ネコ"/>
-    <file name="works.css" crc="331008679" ref="works"/>
-    <file name="______.css" crc="3983899490" ref="おんにゃのこ"/>
-    <file name="index.css" crc="375762494" ref="index"/>
+    <file name="index.css" crc="4023481609" ref="index"/>
+    <file name="iefonts_index.css" crc="112849447" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:news:illustration:works:contact:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="museutils.js" crc="4291592202" ref="index:about-me:news:illustration:works:contact:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:about-me:news:illustration:works:contact:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:about-me:news:illustration:works:contact:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="pie.js" crc="3827607177" ref="works:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="webpro.js" crc="3903299128" ref="works:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="works:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="works:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="touchswipe.js" crc="4156838003" ref="works:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
+    <file name="form_check.php" crc="4225488401" ref="index"/>
+    <file name="form_throttle.php" crc="425392939" ref="index"/>
+    <file name="form-u428.php" crc="3857986587" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="kokeshinowa10.jpg" crc="351938855" ref="index"/>
-    <file name="news.jpg" crc="305074462" ref="index"/>
-    <file name="untitled.jpg" crc="506451865" ref="about-me"/>
-    <file name="kokeshinowa2.jpg" crc="3830515986" ref="news"/>
-    <file name="hyoushino.jpg" crc="4245678234" ref="illustration:おんにゃのこ"/>
-    <file name="works2.jpg" crc="459161886" ref="works"/>
-    <file name="blank.gif" crc="4208392903" ref="works:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="works.jpg" crc="4201081068" ref="works"/>
-    <file name="work4.jpg" crc="154619415" ref="works"/>
-    <file name="works260x83.jpg" crc="275976306" ref="works"/>
-    <file name="works60x62.jpg" crc="396915055" ref="works"/>
-    <file name="work460x82.jpg" crc="16641797" ref="works"/>
-    <file name="loading.gif" crc="3815509949" ref="works:けののびたこけし:そのほか:ネコ:おんにゃのこ"/>
-    <file name="colum.jpg" crc="3910696243" ref="contact"/>
-    <file name="koke1.jpg" crc="303814460" ref="けののびたこけし"/>
-    <file name="koke2.jpg" crc="75809524" ref="けののびたこけし"/>
-    <file name="koke3.jpg" crc="170078644" ref="けののびたこけし"/>
-    <file name="koke4.jpg" crc="4211044781" ref="けののびたこけし"/>
-    <file name="koke5.jpg" crc="3962593877" ref="けののびたこけし"/>
-    <file name="koke6.jpg" crc="260475408" ref="けののびたこけし"/>
-    <file name="koke7.jpg" crc="143625236" ref="けののびたこけし"/>
-    <file name="koke8.jpg" crc="517391988" ref="けののびたこけし"/>
-    <file name="koke9.jpg" crc="157662892" ref="けののびたこけし"/>
-    <file name="koke10.jpg" crc="4224970443" ref="けののびたこけし"/>
-    <file name="koke11.jpg" crc="152866074" ref="けののびたこけし"/>
-    <file name="koke12.jpg" crc="388992127" ref="けののびたこけし"/>
-    <file name="koke13.jpg" crc="3981437784" ref="けののびたこけし"/>
-    <file name="koke14.jpg" crc="4182070186" ref="けののびたこけし"/>
-    <file name="koke15.jpg" crc="340396782" ref="けののびたこけし"/>
-    <file name="koke16.jpg" crc="152280478" ref="けののびたこけし"/>
-    <file name="koke21.jpg" crc="451459679" ref="けののびたこけし"/>
-    <file name="koke26.jpg" crc="4234382576" ref="けののびたこけし"/>
-    <file name="koke27.jpg" crc="3904969268" ref="けののびたこけし"/>
-    <file name="koke28.jpg" crc="4277457347" ref="けののびたこけし"/>
-    <file name="koke29.jpg" crc="62660229" ref="けののびたこけし"/>
-    <file name="koke43.jpg" crc="258874609" ref="けののびたこけし"/>
-    <file name="koke40.jpg" crc="4087843698" ref="けののびたこけし"/>
-    <file name="koke46.jpg" crc="4206558741" ref="けののびたこけし"/>
-    <file name="koke49.jpg" crc="4136958566" ref="けののびたこけし"/>
-    <file name="koke52.jpg" crc="4290518695" ref="けののびたこけし"/>
-    <file name="koke53.jpg" crc="3940350523" ref="けののびたこけし"/>
-    <file name="koke54.jpg" crc="3840375120" ref="けののびたこけし"/>
-    <file name="koke55.jpg" crc="3854359928" ref="けののびたこけし"/>
-    <file name="koke260x84.jpg" crc="319756050" ref="けののびたこけし"/>
-    <file name="koke360x55.jpg" crc="291148690" ref="けののびたこけし"/>
-    <file name="koke460x76.jpg" crc="243216832" ref="けののびたこけし"/>
-    <file name="koke560x71.jpg" crc="4229731234" ref="けののびたこけし"/>
-    <file name="koke660x68.jpg" crc="519891027" ref="けののびたこけし"/>
-    <file name="koke760x66.jpg" crc="141305248" ref="けののびたこけし"/>
-    <file name="koke860x64.jpg" crc="4232002712" ref="けののびたこけし"/>
-    <file name="koke960x64.jpg" crc="52137262" ref="けののびたこけし"/>
-    <file name="koke1060x72.jpg" crc="4277099626" ref="けののびたこけし"/>
-    <file name="koke1160x56.jpg" crc="4124752640" ref="けののびたこけし"/>
-    <file name="koke1360x61.jpg" crc="4146671576" ref="けののびたこけし"/>
-    <file name="koke1460x69.jpg" crc="3793189629" ref="けののびたこけし"/>
-    <file name="koke1560x70.jpg" crc="3932766537" ref="けののびたこけし"/>
-    <file name="koke1660x59.jpg" crc="4278733156" ref="けののびたこけし"/>
-    <file name="koke2660x60.jpg" crc="4254061637" ref="けののびたこけし"/>
-    <file name="koke2860x73.jpg" crc="359485836" ref="けののびたこけし"/>
-    <file name="koke4360x71.jpg" crc="4187789936" ref="けののびたこけし"/>
-    <file name="koke4060x81.jpg" crc="282342132" ref="けののびたこけし"/>
-    <file name="koke4960x83.jpg" crc="3890097899" ref="けののびたこけし"/>
-    <file name="koke5260x63.jpg" crc="449926454" ref="けののびたこけし"/>
-    <file name="koke5360x83.jpg" crc="534545971" ref="けののびたこけし"/>
-    <file name="koke5460x72.jpg" crc="404891528" ref="けののびたこけし"/>
-    <file name="koke5560x60.jpg" crc="468070365" ref="けののびたこけし"/>
-    <file name="koke18.jpg" crc="4186433157" ref="そのほか"/>
-    <file name="koke23.jpg" crc="3948140347" ref="そのほか"/>
-    <file name="koke39.jpg" crc="4201713374" ref="そのほか"/>
-    <file name="koke41.jpg" crc="4173398138" ref="そのほか"/>
-    <file name="koke38.jpg" crc="4053494203" ref="そのほか"/>
-    <file name="koke1860x69.jpg" crc="260918758" ref="そのほか"/>
-    <file name="koke2360x73.jpg" crc="3887239840" ref="そのほか"/>
-    <file name="koke4160x68.jpg" crc="203236922" ref="そのほか"/>
-    <file name="koke3860x83.jpg" crc="4276356773" ref="そのほか"/>
-    <file name="koke24.jpg" crc="160552438" ref="ネコ"/>
-    <file name="koke25.jpg" crc="458287919" ref="ネコ"/>
-    <file name="koke35.jpg" crc="408016802" ref="ネコ"/>
-    <file name="koke37.jpg" crc="190182447" ref="ネコ"/>
-    <file name="koke42.jpg" crc="50855163" ref="ネコ"/>
-    <file name="koke44.jpg" crc="423828597" ref="ネコ"/>
-    <file name="koke45.jpg" crc="292947309" ref="ネコ"/>
-    <file name="koke61.jpg" crc="4096588228" ref="ネコ"/>
-    <file name="koke60.jpg" crc="15601657" ref="ネコ"/>
-    <file name="koke2460x65.jpg" crc="4106951843" ref="ネコ"/>
-    <file name="koke2560x59.jpg" crc="4182921530" ref="ネコ"/>
-    <file name="koke4260x81.jpg" crc="24733851" ref="ネコ"/>
-    <file name="koke4460x80.jpg" crc="3798109723" ref="ネコ"/>
-    <file name="koke4560x61.jpg" crc="40487753" ref="ネコ"/>
-    <file name="koke6160x96.jpg" crc="166827428" ref="ネコ"/>
-    <file name="koke32.jpg" crc="4116696189" ref="おんにゃのこ"/>
-    <file name="koke31.jpg" crc="482987002" ref="おんにゃのこ"/>
-    <file name="koke33.jpg" crc="281789111" ref="おんにゃのこ"/>
-    <file name="koke34.jpg" crc="3899015658" ref="おんにゃのこ"/>
-    <file name="koke50.jpg" crc="3790866410" ref="おんにゃのこ"/>
-    <file name="koke51.jpg" crc="3859869338" ref="おんにゃのこ"/>
-    <file name="onnanoko2.jpg" crc="5047968" ref="おんにゃのこ"/>
-    <file name="onnanoko3.jpg" crc="3889017672" ref="おんにゃのこ"/>
-    <file name="onnanoko.jpg" crc="400306118" ref="おんにゃのこ"/>
-    <file name="onnnanoko4.jpg" crc="340003447" ref="おんにゃのこ"/>
-    <file name="koke56.jpg" crc="4198928860" ref="おんにゃのこ"/>
-    <file name="koke3360x76.jpg" crc="219478281" ref="おんにゃのこ"/>
-    <file name="koke5060x72.jpg" crc="4070766534" ref="おんにゃのこ"/>
-    <file name="koke5160x72.jpg" crc="313303278" ref="おんにゃのこ"/>
-    <file name="onnanoko260x60.jpg" crc="4011417456" ref="おんにゃのこ"/>
-    <file name="onnanoko360x72.jpg" crc="179164787" ref="おんにゃのこ"/>
-    <file name="onnanoko60x60.jpg" crc="6542898" ref="おんにゃのこ"/>
-    <file name="onnnanoko460x60.jpg" crc="425609250" ref="おんにゃのこ"/>
-    <file name="koke5660x72.jpg" crc="4103080691" ref="おんにゃのこ"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="vector-macbook-pro-laptop-u70-fr.png" crc="3595599" ref="index"/>
+    <file name="search copy.png" crc="3960372428" ref="index"/>
+    <file name="paperplane copy.png" crc="133225237" ref="index"/>
+    <file name="star copy.png" crc="241231306" ref="index"/>
+    <file name="settings copy.png" crc="4256359681" ref="index"/>
+    <file name="kittens-u132-fr.jpg" crc="4088194653" ref="index"/>
+    <file name="andy.jpg" crc="165167824" ref="index"/>
+    <file name="adobe-creative-cloud.jpg" crc="55541405" ref="index"/>
+    <file name="shutterstock_118250269.jpg" crc="270098563" ref="index"/>
+    <file name="shutterstock_157599014.jpg" crc="256052752" ref="index"/>
+    <file name="shutterstock_148390433.jpg" crc="3758846289" ref="index"/>
+    <file name="shutterstock_160909220.jpg" crc="3898480000" ref="index"/>
+    <file name="shutterstock_159250628.jpg" crc="51086692" ref="index"/>
+    <file name="shutterstock_160476122.jpg" crc="3948535637" ref="index"/>
+    <file name="shutterstock_161730980.jpg" crc="4083772712" ref="index"/>
+    <file name="shutterstock_161322830.jpg" crc="3818429534" ref="index"/>
+    <file name="shutterstock_160909115.jpg" crc="189928069" ref="index"/>
+    <file name="shutterstock_161935412.jpg" crc="4023719673" ref="index"/>
+    <file name="shutterstock_159883082.jpg" crc="389894092" ref="index"/>
+    <file name="shutterstock_159967142.jpg" crc="164533011" ref="index"/>
+    <file name="shutterstock_122935597.jpg" crc="367352407" ref="index"/>
+    <file name="shutterstock_98370644.jpg" crc="4129970405" ref="index"/>
+    <file name="shutterstock_135059636.jpg" crc="3968134763" ref="index"/>
+    <file name="shutterstock_107929916.jpg" crc="126530493" ref="index"/>
+    <file name="shutterstock_77002438.jpg" crc="4239528764" ref="index"/>
+    <file name="shutterstock_58664026.jpg" crc="469410643" ref="index"/>
+    <file name="shutterstock_133550825.jpg" crc="3762931765" ref="index"/>
+    <file name="shutterstock_111339851.jpg" crc="3831702620" ref="index"/>
+    <file name="shutterstock_85734212.jpg" crc="4124614883" ref="index"/>
+    <file name="shutterstock_140433208.jpg" crc="4133661475" ref="index"/>
+    <file name="shutterstock_152295734.jpg" crc="313757138" ref="index"/>
+    <file name="shutterstock_152464529.jpg" crc="3849158798" ref="index"/>
+    <file name="shutterstock_11825026978x53.jpg" crc="4178223368" ref="index"/>
+    <file name="shutterstock_15759901478x52.jpg" crc="3858890497" ref="index"/>
+    <file name="shutterstock_14839043378x52.jpg" crc="3821861257" ref="index"/>
+    <file name="shutterstock_16090922084x52.jpg" crc="3859695839" ref="index"/>
+    <file name="shutterstock_15925062875x52.jpg" crc="417538942" ref="index"/>
+    <file name="shutterstock_16047612265x65.jpg" crc="4233388228" ref="index"/>
+    <file name="shutterstock_16173098079x52.jpg" crc="252159288" ref="index"/>
+    <file name="shutterstock_16132283079x52.jpg" crc="310823607" ref="index"/>
+    <file name="shutterstock_16090911578x52.jpg" crc="283359925" ref="index"/>
+    <file name="shutterstock_16193541279x52.jpg" crc="4025387047" ref="index"/>
+    <file name="shutterstock_15988308265x66.jpg" crc="46935547" ref="index"/>
+    <file name="shutterstock_15996714279x52.jpg" crc="333245552" ref="index"/>
+    <file name="shutterstock_12293559779x52.jpg" crc="4281778403" ref="index"/>
+    <file name="shutterstock_9837064480x52.jpg" crc="4012673637" ref="index"/>
+    <file name="shutterstock_13505963679x52.jpg" crc="4237870794" ref="index"/>
+    <file name="shutterstock_10792991678x52.jpg" crc="4112267792" ref="index"/>
+    <file name="shutterstock_77002438109x52.jpg" crc="3948206262" ref="index"/>
+    <file name="shutterstock_5866402678x52.jpg" crc="3798162598" ref="index"/>
+    <file name="shutterstock_13355082578x53.jpg" crc="294698545" ref="index"/>
+    <file name="shutterstock_11133985178x52.jpg" crc="4084385745" ref="index"/>
+    <file name="shutterstock_8573421277x53.jpg" crc="92894187" ref="index"/>
+    <file name="shutterstock_14043320878x53.jpg" crc="491311256" ref="index"/>
+    <file name="shutterstock_15229573478x53.jpg" crc="3948016179" ref="index"/>
+    <file name="shutterstock_15246452979x53.jpg" crc="414076611" ref="index"/>
+    <file name="creative_cloud-u424-fr.jpg" crc="3988762981" ref="index"/>
+    <file name="u435-17.png" crc="3901767416" ref="index"/>
+    <file name="u435-17-r.png" crc="467538957" ref="index"/>
+    <file name="u435-17-m.png" crc="71331458" ref="index"/>
+    <file name="u435-17-fs.png" crc="4021129103" ref="index"/>
   </folder>
-  <file name="index.html" crc="4024380911" mt="1403106420067" redirect="true"/>
-  <file name="about-me.html" crc="3838551466" mt="1403106346883" redirect="true"/>
-  <file name="news.html" crc="4044341786" mt="1403106943280" redirect="true"/>
-  <file name="illustration.html" crc="33505812" mt="1403106625528" redirect="true"/>
-  <file name="works.html" crc="3857236064" mt="1403077741812" redirect="true"/>
-  <file name="contact.html" crc="437031086" mt="1403077887859" redirect="true"/>
-  <file name="けののびたこけし.html" crc="3798245398" mt="1403080234892" redirect="true"/>
-  <file name="そのほか.html" crc="4024412994" mt="1403077965384" redirect="true"/>
-  <file name="ネコ.html" crc="4008300638" mt="1403106549494" redirect="true"/>
-  <file name="おんにゃのこ.html" crc="4068329713" mt="1403078132982" redirect="true"/>
+  <file name="index.html" crc="4027330987" mt="1403490724894" redirect="true"/>
 </manifest>
