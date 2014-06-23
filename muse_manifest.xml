@@ -1,7 +1,7 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="213576803" ref="index"/>
+    <file name="index.css" crc="30517656" ref="index"/>
     <file name="iefonts_index.css" crc="4035017167" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -29,7 +29,6 @@
     <file name="star copy.png" crc="241231306" ref="index"/>
     <file name="settings copy.png" crc="4256359681" ref="index"/>
     <file name="andy.jpg" crc="165167824" ref="index"/>
-    <file name="adobe-creative-cloud.jpg" crc="55541405" ref="index"/>
     <file name="u435-17.png" crc="3901767416" ref="index"/>
     <file name="u435-17-r.png" crc="467538957" ref="index"/>
     <file name="u435-17-m.png" crc="71331458" ref="index"/>
@@ -86,6 +85,7 @@
     <file name="2278x52.jpg" crc="291040511" ref="index"/>
     <file name="2378x52.jpg" crc="4265004796" ref="index"/>
     <file name="2478x52.jpg" crc="3805530141" ref="index"/>
+    <file name="creative_cloud_by_teevati-d6xxpqk.jpg" crc="3912252733" ref="index"/>
   </folder>
-  <file name="index.html" crc="306172808" mt="1403528116072" redirect="true"/>
+  <file name="index.html" crc="194537867" mt="1403560935860" redirect="true"/>
 </manifest>
