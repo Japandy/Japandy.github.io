@@ -1,3 +1,9 @@
+.version.index /* version checker */
+{
+	color: #0000ED;
+	background-color: #01A75E;
+}
+
 .html
 {
 	background-color: #FFFFFF;
@@ -18,33 +24,22 @@
 
 #page_position_content
 {
-	margin-top: 525px;
+	padding-top: 525px;
 }
 
 #u69
 {
 	z-index: 264;
-	width: 1160px;
 	height: 70px;
 	border-color: #000000;
 	background-color: #3E63A6;
 	position: fixed;
 	top: 0px;
-	left: 50%;
-	margin-left: -50%;
 }
 
-#u70
+#u69-bw
 {
-	z-index: 2;
-	width: 1160px;
-	height: 618px;
-	border-color: #000000;
-	position: fixed;
-	top: 10px;
-	left: -186px;
-	background: transparent url("../images/vector-macbook-pro-laptop-u70-fr.jpg") no-repeat center center;
-	background-size: contain !important;
+	z-index: 264;
 }
 
 #menuu458
@@ -77,9 +72,9 @@
 {
 	width: 130px;
 	min-height: 17px;
-	text-align: center;
-	font-size: 14px;
 	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -147,8 +142,8 @@
 {
 	width: 130px;
 	min-height: 17px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -162,16 +157,16 @@
 	width: 270px;
 	min-height: 37px;
 	background-color: transparent;
-	text-align: left;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: fixed;
 	top: 25px;
 	left: 50%;
-	margin-left: -400px;
+	margin-left: -458px;
 }
 
 #u579-4:hover
@@ -179,7 +174,20 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 37px;
-	margin: 0px 0px 0px -400px;
+	margin: 0px 0px 0px -458px;
+}
+
+#u70
+{
+	z-index: 2;
+	width: 1160px;
+	height: 480px;
+	border-color: #000000;
+	position: fixed;
+	top: 70px;
+	left: -191px;
+	background: transparent url("../images/vector-macbook-pro-laptop-u70-fr.jpg") no-repeat center center;
+	background-size: contain;
 }
 
 #u568
@@ -188,7 +196,7 @@
 	width: 209px;
 	position: fixed;
 	top: 128px;
-	left: 739px;
+	left: 789px;
 }
 
 #u77-6
@@ -196,8 +204,8 @@
 	z-index: 5;
 	width: 488px;
 	min-height: 77px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: fixed;
 	top: 171px;
 	left: 145px;
@@ -228,20 +236,16 @@
 #pu93
 {
 	width: 0.01px;
-	left: -100px;
+	margin-left: -100px;
 	margin-top: 24px;
-	position: relative;
 }
 
 #u93
 {
 	z-index: 11;
-	width: 1160px;
 	border-color: #000000;
 	background-color: #3E63A6;
 	padding-bottom: 546px;
-	position: relative;
-	margin-right: -10000px;
 }
 
 #u94-4
@@ -249,10 +253,10 @@
 	z-index: 12;
 	width: 604px;
 	min-height: 77px;
-	text-align: center;
-	font-size: 60px;
 	line-height: 72px;
 	color: #FFFFFF;
+	font-size: 60px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -261,14 +265,20 @@
 	left: 278px;
 }
 
+#u93-bw
+{
+	z-index: 11;
+	height: 135px;
+}
+
 #u95-4
 {
 	z-index: 16;
 	width: 916px;
-	text-align: center;
-	font-size: 16px;
 	line-height: 19px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -282,9 +292,7 @@
 	width: 0.01px;
 	padding-bottom: 331px;
 	margin-left: 22px;
-	top: -446px;
-	margin-bottom: -331px;
-	position: relative;
+	margin-top: -446px;
 }
 
 #u97-4
@@ -292,10 +300,10 @@
 	z-index: 24;
 	width: 214px;
 	min-height: 36px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: fixed;
@@ -308,9 +316,9 @@
 	z-index: 20;
 	width: 214px;
 	min-height: 90px;
-	text-align: center;
 	line-height: 24px;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -339,10 +347,10 @@
 	z-index: 35;
 	width: 214px;
 	min-height: 36px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: fixed;
@@ -355,9 +363,9 @@
 	z-index: 29;
 	width: 214px;
 	min-height: 90px;
-	text-align: center;
 	line-height: 24px;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -386,10 +394,10 @@
 	z-index: 44;
 	width: 214px;
 	min-height: 36px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: fixed;
@@ -402,9 +410,9 @@
 	z-index: 40;
 	width: 214px;
 	min-height: 90px;
-	text-align: center;
 	line-height: 24px;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -433,10 +441,10 @@
 	z-index: 53;
 	width: 214px;
 	min-height: 36px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: fixed;
@@ -449,9 +457,9 @@
 	z-index: 49;
 	width: 214px;
 	min-height: 90px;
-	text-align: center;
 	line-height: 24px;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -478,14 +486,19 @@
 #u132
 {
 	z-index: 58;
-	width: 1160px;
 	height: 474px;
 	border-color: #000000;
-	position: fixed;
-	top: 1248px;
-	left: -100px;
 	background: #3E63A6 url("../images/responsive-mockups.jpg") no-repeat center center;
-	background-size: cover !important;
+	background-size: cover;
+}
+
+#u132-bw
+{
+	z-index: 58;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 1248px;
 }
 
 #about
@@ -498,30 +511,32 @@
 #pu139
 {
 	width: 0.01px;
-	left: -100px;
+	margin-left: -100px;
 	margin-top: 20px;
-	position: relative;
 }
 
 #u139
 {
 	z-index: 59;
-	width: 1160px;
 	height: 549px;
 	border-color: #000000;
 	background-color: #3E63A6;
-	position: relative;
-	margin-right: -10000px;
+}
+
+#u139-bw
+{
+	z-index: 59;
+	height: 549px;
 }
 
 #u141-4
 {
 	z-index: 64;
 	width: 916px;
-	text-align: center;
-	font-size: 16px;
 	line-height: 19px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -535,9 +550,7 @@
 	width: 0.01px;
 	padding-bottom: 434px;
 	margin-left: 134px;
-	top: -452px;
-	margin-bottom: -435px;
-	position: relative;
+	margin-top: -452px;
 }
 
 #u541
@@ -554,10 +567,10 @@
 	z-index: 60;
 	width: 604px;
 	min-height: 77px;
-	text-align: center;
-	font-size: 60px;
 	line-height: 72px;
 	color: #FFFFFF;
+	font-size: 60px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: fixed;
@@ -570,9 +583,9 @@
 	z-index: 68;
 	width: 526px;
 	min-height: 260px;
-	text-align: left;
 	line-height: 24px;
 	color: #FFFFFF;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -583,11 +596,8 @@
 #u150
 {
 	z-index: 78;
-	width: 1160px;
 	border-color: #000000;
 	padding-bottom: 22px;
-	position: relative;
-	left: -100px;
 	background: #3E63A6 url("../images/creative_cloud_by_teevati-d6xxpqk.jpg") no-repeat center center;
 }
 
@@ -599,15 +609,18 @@
 	margin-top: 316px;
 }
 
+#u150-bw
+{
+	z-index: 78;
+	height: 334px;
+}
+
 #u151
 {
 	z-index: 79;
-	width: 1160px;
 	border-color: #000000;
 	background-color: #3E63A6;
 	padding-bottom: 575px;
-	position: relative;
-	margin-right: -10000px;
 }
 
 #u152-4
@@ -615,10 +628,10 @@
 	z-index: 80;
 	width: 604px;
 	min-height: 77px;
-	text-align: center;
-	font-size: 60px;
 	line-height: 72px;
 	color: #FFFFFF;
+	font-size: 60px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -627,14 +640,20 @@
 	left: 278px;
 }
 
+#u151-bw
+{
+	z-index: 79;
+	height: 115px;
+}
+
 #u153-4
 {
 	z-index: 84;
 	width: 916px;
-	text-align: center;
-	font-size: 16px;
 	line-height: 19px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1327,7 +1346,7 @@
 #u682_img,#u691_img,#u700_img,#u709_img,#u718_img,#u727_img,#u736_img,#u745_img,#u754_img,#u763_img,#u772_img,#u781_img,#u790_img,#u799_img,#u808_img,#u817_img,#u826_img,#u887_img,#u896_img,#u905_img,#u914_img,#u923_img,#u932_img,#u941_img
 {
 	margin-left: -6px;
-	margin-right: -6px;
+	margin-right: -7px;
 }
 
 .MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* unifiedNavBar */
@@ -1343,13 +1362,10 @@
 #u424
 {
 	z-index: 187;
-	width: 1160px;
 	border-color: #000000;
 	padding-bottom: 23px;
-	position: relative;
-	left: -100px;
 	background: #277697 url("../images/creative_cloud.jpg") no-repeat left top;
-	background-size: cover !important;
+	background-size: cover;
 }
 
 #contact
@@ -1360,22 +1376,24 @@
 	margin-top: 314px;
 }
 
+#u424-bw
+{
+	z-index: 187;
+	height: 332px;
+}
+
 #pu151,#pu425
 {
 	width: 0.01px;
-	left: -100px;
-	position: relative;
+	margin-left: -100px;
 }
 
 #u425
 {
 	z-index: 188;
-	width: 1160px;
 	border-color: #000000;
 	background-color: #3E63A6;
 	padding-bottom: 631px;
-	position: relative;
-	margin-right: -10000px;
 }
 
 #u93_align_to_page,#u150_align_to_page,#u151_align_to_page,#u424_align_to_page,#u425_align_to_page
@@ -1392,10 +1410,10 @@
 	z-index: 189;
 	width: 604px;
 	min-height: 77px;
-	text-align: center;
-	font-size: 60px;
 	line-height: 72px;
 	color: #FFFFFF;
+	font-size: 60px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -1404,14 +1422,20 @@
 	left: 278px;
 }
 
+#u425-bw
+{
+	z-index: 188;
+	height: 175px;
+}
+
 #u427-4
 {
 	z-index: 193;
 	width: 916px;
-	text-align: center;
-	font-size: 16px;
 	line-height: 19px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1451,9 +1475,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	line-height: 14px;
 	color: #FFFFFF;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1550,9 +1574,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	line-height: 14px;
 	color: #FFFFFF;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1655,8 +1679,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1683,9 +1707,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 14px;
 	color: #FF0000;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1712,9 +1736,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 12px;
 	color: #00FF00;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1743,10 +1767,10 @@
 	z-index: 228;
 	min-height: 50px;
 	width: 916px;
-	background: url("../images/u435-17.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 409px;
+	background: url("../images/u435-17.png") no-repeat 0px 0px;
 }
 
 #u435-17:hover
@@ -1795,9 +1819,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	line-height: 14px;
 	color: #FFFFFF;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1927,16 +1951,22 @@
 {
 	z-index: 254;
 	width: 916px;
-	text-align: center;
-	font-size: 16px;
 	line-height: 19px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 22px;
 	top: -61px;
 	margin-bottom: -19px;
 	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
 }
 
 #page .verticalspacer

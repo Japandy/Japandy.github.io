@@ -20,6 +20,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 
 function emailFormSubmission()
 {
+	if(!defined('PHP_EOL'))
+		define('PHP_EOL', '\r\n');
+
 	$to = 'loveishs@gmail.com';
 	$subject = 'Home Form Submission';
 	
@@ -37,7 +40,7 @@ function emailFormSubmission()
 	$message = cleanupMessage($message);
 	
 	$formEmail = cleanupEmail($_REQUEST['Email']);
-	$headers = 'From:  loveishs@gmail.com' . "\r\n" . 'Reply-To: ' . $formEmail .  "\r\n" .'X-Mailer: Adobe Muse 7.4.30 with PHP/' . phpversion() . "\r\n" . 'Content-type: text/html; charset=utf-8' . "\r\n";
+	$headers = 'From: loveishs@gmail.com' . PHP_EOL . 'Reply-To: ' . $formEmail . PHP_EOL .'X-Mailer: Adobe Muse 2014.0.328 with PHP/' . phpversion() .'/'. PHP_OS . PHP_EOL . 'Content-type: text/html; charset=utf-8' . PHP_EOL;
 	
 	$sent = @mail($to, $subject, $message, $headers);
 	
