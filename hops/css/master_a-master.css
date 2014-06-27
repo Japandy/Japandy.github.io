@@ -59,9 +59,9 @@
 
 #u2331-4
 {
-	font-size: 25px;
-	color: #006C2E;
 	text-align: left;
+	color: #006C2E;
+	font-size: 25px;
 	position: relative;
 }
 
@@ -79,8 +79,8 @@
 
 #u2543-4,#u2038-4,#u2546-4,#u2456-4
 {
-	font-size: 14px;
 	color: #FFFFFF;
+	font-size: 14px;
 	text-align: center;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
